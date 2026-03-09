@@ -26,7 +26,6 @@ CVista, CV ile iş ilanını karşılaştırarak kullanıcıya analiz ve gelişt
 - Expo
 - React Native
 - React Native Web
-- JavaScript / TypeScript
 - Git & GitHub
 
 ## İlk Sürüm Kapsamı
